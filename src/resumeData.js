@@ -1,69 +1,69 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "imagebaseurl":"https://thanhtrong.com/",
+    "name": "Tran Thanh Trong",
+    "role": "Fullstack Developer and Data Scientist",
+    "linkedinId":"thanhtrong",
+    "skypeid": "live:.cid.aa3cdbe8d936d086",
+    "roleDescription": "I like dabbling in various parts of software development and like to learn about new technologies in my free time. I am also a big fan of The big bang theory TV show.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/thanhtrong/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/tranthanhtrong",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/thanhtrong_tran",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently a fulltime developer at FPT Software. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"Vietnam",
+    "website":"https://thanhtrong.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"FPT Univesity",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2021",
+        "Achievements":"Highest graded thesis project"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"FPT Univesity",
+        "specialization":"Software Engineering",
+        "MonthOfPassing":"June",
+        "YearOfPassing":"2021",
+        "Achievements":"GPA - xx"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"FPT Software",
+        "specialization":"Internship",
+        "MonthOfLeaving":"April",
+        "YearOfLeaving":"2020",
+        "Achievements":"--"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"FPT Software",
+        "specialization":"Developer",
+        "MonthOfLeaving":"--",
+        "YearOfLeaving":"--",
+        "Achievements":"--"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Specialize in Java programming language. Familiar with C#, Python, Javascript, Ruby and C++.",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Ruby"
       },
       {
         "skillname":"Reactjs"
