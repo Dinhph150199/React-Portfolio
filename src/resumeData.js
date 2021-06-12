@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://thanhtrong.com/",
     "name": "Tran Thanh Trong",
     "role": "Fullstack Developer and Data Scientist",
-    "linkedinId":"thanhtrong",
+    "linkedinId":"https://www.linkedin.com/in/thanhtrong",
     "skypeid": "live:.cid.aa3cdbe8d936d086",
     "roleDescription": "I like dabbling in various parts of software development and like to learn about new technologies in my free time. I am also a big fan of The big bang theory TV show.",
     "socialLinks":[
@@ -31,7 +31,7 @@ let resumeData = {
         "specialization":"Software Engineering",
         "MonthOfPassing":"June",
         "YearOfPassing":"2021",
-        "Achievements":"Highest graded thesis project"
+        "Achievements":"Graduated with the Highest graded thesis project"
       },
       {
         "UniversityName":"FPT Univesity",
@@ -93,12 +93,16 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "name":"Buddha"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Why should we worry about what others think of us, do we have more confidence in their opinions than we do our own?",
+        "name":"Brigham Young"
+      },
+      {
+        "description":"To every action there is always opposed an equal reaction.",
+        "name":"Isaac Newton"
       }
     ]
   }
