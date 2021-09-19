@@ -1,30 +1,30 @@
 let resumeData = {
     "imagebaseurl":"https://thanhtrong.com/",
-    "name": "Tran Thanh Trong",
+    "name": "Pham Hong Dinh",
     "role": "Fullstack Developer and Data Scientist",
-    "linkedinId":"https://www.linkedin.com/in/thanhtrong",
+    "linkedinId":"https://www.linkedin.com/in/xxxx",
     "skypeid": "live:.cid.aa3cdbe8d936d086",
     "roleDescription": "I like dabbling in various parts of software development and like to learn about new technologies in my free time. I am also a big fan of The big bang theory TV show.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/thanhtrong/",
+          "url":"https://www.linkedin.com/in/xxx/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/tranthanhtrong",
+          "url":"http://github.com/phamhongdinh",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"https://twitter.com/thanhtrong_tran",
+          "url":"https://twitter.com/xxx",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a fulltime developer at FPT Software. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Vietnam",
-    "website":"https://thanhtrong.com",
+    "website":"https://dinhph.me",
     "education":[
       {
         "UniversityName":"FPT Univesity",
